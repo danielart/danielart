@@ -18,7 +18,6 @@
 ### 🚀 Open Source & Featured Projects
 - **[Brisa](https://github.com/brisa-build/brisa)** – The Web Platform Framework.
 - **[Teaful](https://github.com/teafuljs/teaful)** – Tiny, easy, and powerful React state management.
-- **[SmileTone](https://github.com/danielart)** – Dental shade selection mobile app.
 
 ---
 
