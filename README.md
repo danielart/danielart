@@ -24,4 +24,4 @@
 
 ### 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielartoladominguez)
-[![Website](https://img.shields.io/badge/Website-111111?style=flat&logo=google-chrome&logoColor=white)](https://danielart.github.io/)
+[![Portfolio](https://img.shields.io/badge/Website-111111?style=flat&logo=google-chrome&logoColor=white)](https://danielart.github.io/)
